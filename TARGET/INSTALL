@@ -1,0 +1,6 @@
+Ubuntu
+-----------------------
+
+1. sudo apt-get install pip python-imaging python-imaging-tk python-opencv python-setuptools python-pyaudio
+2. sudo pip install pyttsx pyttk
+3. ./EDFTS.py
