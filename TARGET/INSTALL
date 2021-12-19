@@ -1,4 +1,4 @@
-Ubuntu
+Tested on Kali Linux Ubuntu
 -----------------------
 
 1. sudo apt-get install pip python-imaging python-imaging-tk python-opencv python-setuptools python-pyaudio
